@@ -109,5 +109,5 @@ AI가 나온지 얼마 안되서 저작권이나 다른 많은 문제가 발생�
 * [diff-svc](https://github.com/prophesier/diff-svc)
 * [케인 TV](https://www.youtube.com/@kanetv8)
 * [케인 트위치](https://www.twitch.tv/kanetv8)
-* [제작자 이메일](jakeecc@naver.com)
+* [제작자 이메일](mailto:jakeecc@naver.com)
 
