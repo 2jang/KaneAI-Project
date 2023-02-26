@@ -24,7 +24,7 @@
 
 ## KaneAI 설명
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/2jang/KaneAI-Project)
+
 
 케인인님 음성으로 만든 KaneAI 음성 변환 모델입니다!<br />
 사실 노래 부르게 하는 용도 보다는 밈 용도로 사용하는걸 목표로 하고 있습니다!<br />
