@@ -14,7 +14,7 @@
 <h4 align="center">현재 버전 : KaneAI_v02</h3>
 
   <p align="center">
-    <a href="https://github.com/2jang/KaneAI-Project">AI가 부른 영상</a>
+    <a href="https://www.youtube.com/@real2jang">AI가 부른 영상</a>
     ·
     <a href="https://github.com/2jang/KaneAI-Project/issues">버그 제보</a>
   </p>
